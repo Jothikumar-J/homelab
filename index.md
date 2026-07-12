@@ -1,3 +1,5 @@
+# **Offensive Security Virtual Homelab Build & Configuration Guide**
+
 ## **1. Overview & Architecture**
 
 This guide outlines the deployment of a modular, isolated offensive security virtual homelab. This environment is designed to provide hands-on experience with real-world attack techniques and adversary tactics in a safe, controlled setting.
